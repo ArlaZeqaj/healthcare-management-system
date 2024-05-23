@@ -1,0 +1,67 @@
+<mxfile host="Electron" modified="2024-04-24T10:15:27.525Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.1.0 Chrome/120.0.6099.109 Electron/28.1.0 Safari/537.36" etag="v1gbz1T99NKDQcSOud20" version="24.1.0" type="device">
+  <diagram name="Page-1" id="HByxfb4U70ItN2QN7Kc9">
+    <mxGraphModel dx="522" dy="629" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="bSGm9dYO-cb-NaoaTnXf-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="bSGm9dYO-cb-NaoaTnXf-4" target="bSGm9dYO-cb-NaoaTnXf-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="570" y="230" as="targetPoint" />
+            <mxPoint x="580" y="55" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bSGm9dYO-cb-NaoaTnXf-4" value="" style="ellipse;fillColor=strokeColor;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="50" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bSGm9dYO-cb-NaoaTnXf-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bSGm9dYO-cb-NaoaTnXf-7" target="bSGm9dYO-cb-NaoaTnXf-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bSGm9dYO-cb-NaoaTnXf-7" value="Search Patient" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="465" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bSGm9dYO-cb-NaoaTnXf-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bSGm9dYO-cb-NaoaTnXf-10" target="bSGm9dYO-cb-NaoaTnXf-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bSGm9dYO-cb-NaoaTnXf-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bSGm9dYO-cb-NaoaTnXf-10" target="bSGm9dYO-cb-NaoaTnXf-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bSGm9dYO-cb-NaoaTnXf-10" value="" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="465" y="250" width="115" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bSGm9dYO-cb-NaoaTnXf-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="bSGm9dYO-cb-NaoaTnXf-13" target="bSGm9dYO-cb-NaoaTnXf-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bSGm9dYO-cb-NaoaTnXf-13" value="Create New Patient" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="730" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bSGm9dYO-cb-NaoaTnXf-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bSGm9dYO-cb-NaoaTnXf-15" target="bSGm9dYO-cb-NaoaTnXf-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bSGm9dYO-cb-NaoaTnXf-15" value="View Medical History" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="462.5" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bSGm9dYO-cb-NaoaTnXf-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bSGm9dYO-cb-NaoaTnXf-17" target="bSGm9dYO-cb-NaoaTnXf-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bSGm9dYO-cb-NaoaTnXf-17" value="Add New Record" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="462.5" y="540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bSGm9dYO-cb-NaoaTnXf-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="bSGm9dYO-cb-NaoaTnXf-19" target="bSGm9dYO-cb-NaoaTnXf-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bSGm9dYO-cb-NaoaTnXf-19" value="&#xa;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;Update Medical Record&lt;/span&gt;&#xa;&#xa;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="462.5" y="650" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bSGm9dYO-cb-NaoaTnXf-22" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="507.5" y="760" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bSGm9dYO-cb-NaoaTnXf-24" value="[Patient does not exist]" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="585" y="250" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bSGm9dYO-cb-NaoaTnXf-26" value="[Patient Exist]" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="490" y="350" width="100" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

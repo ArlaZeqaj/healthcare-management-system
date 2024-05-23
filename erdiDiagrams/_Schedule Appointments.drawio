@@ -1,0 +1,52 @@
+<mxfile host="app.diagrams.net" modified="2024-04-11T22:10:15.925Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="y4CsfMxUiZWJU_RazSv8" version="24.2.3" type="device">
+  <diagram name="Page-1" id="uN4VsGIUFS_dJ24j_Dtq">
+    <mxGraphModel dx="281" dy="529" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="T88KQhypb85-tlft3riX-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="T88KQhypb85-tlft3riX-1" target="T88KQhypb85-tlft3riX-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="T88KQhypb85-tlft3riX-1" value="" style="ellipse;fillColor=strokeColor;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="10" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="T88KQhypb85-tlft3riX-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="T88KQhypb85-tlft3riX-2" target="T88KQhypb85-tlft3riX-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="T88KQhypb85-tlft3riX-2" value="Select Patient" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="45" y="70" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="T88KQhypb85-tlft3riX-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="T88KQhypb85-tlft3riX-3" target="T88KQhypb85-tlft3riX-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="T88KQhypb85-tlft3riX-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="T88KQhypb85-tlft3riX-3" target="T88KQhypb85-tlft3riX-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="T88KQhypb85-tlft3riX-3" value="Check Doctor Availability" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="240" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="T88KQhypb85-tlft3riX-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="T88KQhypb85-tlft3riX-4" target="T88KQhypb85-tlft3riX-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="T88KQhypb85-tlft3riX-4" value="Choose Date And Time" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="45" y="150" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="T88KQhypb85-tlft3riX-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="T88KQhypb85-tlft3riX-5" target="T88KQhypb85-tlft3riX-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="T88KQhypb85-tlft3riX-5" value="Confirm Appointment" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="310" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="T88KQhypb85-tlft3riX-6" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="65" y="470" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="T88KQhypb85-tlft3riX-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="T88KQhypb85-tlft3riX-7" target="T88KQhypb85-tlft3riX-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="T88KQhypb85-tlft3riX-7" value="Notify Patient" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="380" width="80" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
