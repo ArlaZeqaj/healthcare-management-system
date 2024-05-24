@@ -1,0 +1,53 @@
+<mxfile host="app.diagrams.net" modified="2024-04-24T09:27:09.980Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="Uxohef4gzsDFM9TlnIZ8" version="24.2.8" type="device">
+  <diagram name="Page-1" id="mINx9WBvjsfMM_Q1i4tj">
+    <mxGraphModel dx="1221" dy="652" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="TyJG4ajhRGWe8bdLl0kS-1" value="" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=#ff0000;" parent="1" vertex="1">
+          <mxGeometry x="110" y="70" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TyJG4ajhRGWe8bdLl0kS-2" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" parent="1" source="TyJG4ajhRGWe8bdLl0kS-1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="125" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TyJG4ajhRGWe8bdLl0kS-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="TyJG4ajhRGWe8bdLl0kS-3" target="TyJG4ajhRGWe8bdLl0kS-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TyJG4ajhRGWe8bdLl0kS-3" value="Pharmacist receives the prescription and patient info" style="html=1;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="70" y="160" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="TyJG4ajhRGWe8bdLl0kS-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="TyJG4ajhRGWe8bdLl0kS-4" target="TyJG4ajhRGWe8bdLl0kS-6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TyJG4ajhRGWe8bdLl0kS-4" value="Sets the dosage of the drugs" style="html=1;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="70" y="260" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="TyJG4ajhRGWe8bdLl0kS-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="TyJG4ajhRGWe8bdLl0kS-6" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="125" y="490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TyJG4ajhRGWe8bdLl0kS-6" value="Inventory is updated" style="html=1;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="70" y="380" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="8wAp6IyV_Y13LE5z8nqc-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8wAp6IyV_Y13LE5z8nqc-1" target="8wAp6IyV_Y13LE5z8nqc-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8wAp6IyV_Y13LE5z8nqc-1" value="A PDF of the prescription is created" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="65" y="490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8wAp6IyV_Y13LE5z8nqc-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8wAp6IyV_Y13LE5z8nqc-2" target="8wAp6IyV_Y13LE5z8nqc-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8wAp6IyV_Y13LE5z8nqc-2" value="The prescription is sent to the HCP" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="65" y="590" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8wAp6IyV_Y13LE5z8nqc-4" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="110" y="700" width="30" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
